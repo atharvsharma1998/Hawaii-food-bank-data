@@ -1,6 +1,6 @@
 # Hawaii-food-bank-data
 
-> **Note:** This data was manually entered and may be susceptible to human mislabeling or errors. If you find any inaccuracies, feel free to report them.
+> **Note:** This data was manually entered and may be susceptible to human mislabeling, errors. Additionally, it might be outdated. If you find any inaccuracies, feel free to report them.
 
 
 ## Food Bank CSV Documentation

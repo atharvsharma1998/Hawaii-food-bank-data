@@ -1,0 +1,555 @@
+island_name,food_bank_name,sub_area,service_type,operation_duration,instructions,location_text,contact,days,TEFAP,TANF,location_geopoint,description,active,marker_legend
+Maui,ARC of Maui,Central Maui,Groceries,Every Monday 12-2pm except on the week of the 3rd Saturday of the month. On the 3rd Saturday distributions are 10am-12pm.,Please call to request food and arrange pick-up,"140 N. Market St, Wailuku",808-242-5781 x216,"monday,saturday",unknown,unknown,"20.8899619,-156.5026247",,yes,grocery
+Maui,Calvary Chapel Central Maui,Central Maui,Groceries,Monday-Friday 9am - 10:30am ,"Call Richard (Mon-Fri only) to request and arrange a pick up for food. If no answer, please leave your name and phone number. Mobile delivery in the Wailuku area. No home deliveries",Wailuku,808-242-2887,"monday,tuesday,wednesday,thursday,friday,saturday",unknown,unknown,"20.8879569,-156.5023327",,yes,grocery
+Maui,Christ the King Church Maui,Central Maui,Groceries,Every 2nd & 4th Friday of the month 12pm-1:30pm,"Drive thru, please remain in your vehicle with your trunk open.","20 West Wakea Avenue, Kahului",808-727-2336,friday,unknown,unknown,"20.8850399,-156.4650489",,yes,grocery
+Maui,Compassion in Action (Faith in Jesus Church),Central Maui,Groceries,Open Tues-Saturday 9am-12pm,Ring bell outside main door in front of church,"432 Waiehu Beach Rd., Wailuku",808-856-1524,"tuesday,wedneday,thursday,friday",unknown,unknown,"20.9062678,-156.485657",,yes,grocery
+Maui,Good Shepherd Episcopal Church,Central Maui,Prepared Meals,Every Sunday 12:30pm - 1:30pm,First come first served. (office closed on Sundays),"2140 Main Street, Wailuku (in the back of parish hall)",808-244-4656,sunday,unknown,unknown,"20.888030580787166,-156.5025447250091",,yes,meals
+Maui,Iao United Church of Christ,Central Maui,Groceries,Monday 11 am - 3 pm (closed on holidays),First come first served,"2371 W. Vineyard St., Wailuku",808-446-7537,monday,unknown,unknown,"20.8864357,-156.5074449",,yes,grocery
+Maui,In His House of Restoration,Central Maui,Groceries,Monday - Friday 9am-4pm,,"63 La'a Street, Kahului",808-268-1204,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.8669969,-156.4980695",,yes,grocery
+Maui,"Hale Makana O Waiale 
+(Ka Hale A Ke Ola)",Central Maui,Groceries,Last Thursday of the month 3pm - while supplies last,Located at the community hall parking lot accross the street from McDonalds.,"195 Waimaluhia Ln., Wailuku",808-243-9500,thursday,unknown,unknown,"20.8723983,-156.4995919",,yes,grocery
+Maui,Kahului Baptist Church,Central Maui,Groceries,Monday-Friday 8:30am-11:30am,Call the office and talk to Lynn before coming in.,"309 S. Puunene Ave., Kahului",808-877-0795,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.883364,-156.4631891",,yes,grocery
+Maui,Kahului 7th Day Adventist,Central Maui,Groceries,Every 4th Tuesday of the month 5pm-6pm (excluding Holidays),Please call ahead to confirm.,"261 S. Pu'unene Ave., Kahului",860-922-0888,tuesday,unknown,unknown,"20.8893016,-156.4728725",,yes,grocery
+Maui,King's Cathedral,Central Maui,Groceries,"July 11th & 25th, drive-thru 9:00am - while supplies last",,"777 Maui Veterans Hwy., Kahului",808-871-7311,thursday,unknown,unknown,"20.8760751,-156.4591678",,yes,grocery
+Maui,King's Transformation,Central Maui,Prepared Meals,Mondays 6:45pm - Dinner,,"777 Maui Veterans Hwy., Kahului",808-385-3583,monday,unknown,unknown,"20.875979967732896,-156.45892431668545",,yes,meals
+Maui,Living Way Church Maui,Central Maui,Prepared Meals,Mondays and Thursdays 9am - 12pm,"If afterhours, please request to speak with Pastor Greg","399 N Market Street, Wailuku",808-344-3679,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.8937174,-156.505024",,yes,meals
+Maui,Living Way Church Maui,Central Maui,Groceries,Mondays 9-12noon,"If afterhours, please request to speak with Pastor Greg","399 N Market Street, Wailuku",808-344-3679,monday,unknown,unknown,"20.8937174,-156.505024",,yes,grocery
+Maui,Maui Family YMCA,Central Maui,Groceries,Every 3rd Friday of the month 9:00 AM – 11:30 AM (while supplies last),"First Come, First Serve Basis","250 Kanaloa Ave, Kahului",808-242-9007,friday,unknown,unknown,"20.8962562,-156.4858344",,yes,grocery
+Maui,Pentecostal Missionary Church,Central Maui,Groceries,Every Sunday 12pm - 2pm,,"2105 Main St, Wailuku",808-385-5678,sunday,unknown,unknown,"20.887369175398753,-156.5029707093321",,yes,grocery
+Maui,Salvation Army Kahului,Central Maui,Groceries,"Every Wednesday 9am-4pm 
+and as needed for emergency food assistance","Please call to request an emergency food box. Required for application: Current legal ID, Proof of Residency and Income.","45 Kamehameha Ave., Kahului",808-871-6270,wednesday,unknown,unknown,"20.8893016,-156.4728725",,yes,grocery
+Maui,Salvation Army Homeless Outreach,Central Maui,Prepared Meals,Tuesday-Wednesday-Thursday,Please call for meal locations and a schedule,"45 Kamehameha Ave., Kahului",808-877-3914,"tuesday,wednesday,thursday",unknown,unknown,"20.88884320736025,-156.46608037065062",,yes,meals
+Maui,UH Maui,Central Maui,Groceries,Last Wednesday of the month 3pm-5pm - while supplies last,Located near the Harbor Lights fenced gate (near swap meet area),"310 W Kaahumanu Ave, Kahului",808-243-9500,wednesday,unknown,unknown,"20.8903364,-156.4794948",,yes,grocery
+Maui,Waihe'e Protestant Church,Central Maui,Groceries,Every Wednesday 11am - 2pm,,"2101 Kahekili Hwy., Wailuku",719-342-2233,wednesday,unknown,unknown,"20.93355847763927,-156.51370188658578",,yes,grocery
+Maui,Wailuku Union Church Pantry,Central Maui,Groceries,Every Saturday from 8:30am - 11:00am,ID required,"327 South High Street, Wailuku",808-244-9177,saturday,unknown,unknown,"20.8842218,-156.5051423",,yes,grocery
+Maui,Grace Church,Upcountry Maui,Groceries,"Every 3rd Wednesday of the month, 11:30am-12:30pm",By reservation. Please call to be on the list for pick up. Drive through distribution.,"A'apueo Parkway., Pukalani (across Kamehameha Schools entry)",808-572-8384,"wednesday,appointment",unknown,unknown,"20.82134148804337,-156.3395926074122",,yes,grocery
+Maui,LDS Pukalani/Makawao Ward,Upcountry Maui,Groceries,"4th Saturday of each month, 9-11am",Drive through distribution,"3356 Kihapai Place, Pukalani",808-264-0358,saturday,unknown,unknown,"20.8367885,-156.3442753",,yes,grocery
+Maui,St. Joseph Church,Upcountry Maui,Groceries,Every 3rd Thursday 8-10am,Drive through by the thrift shop,"1294 Makawao Ave., Makawao",808-572-7652,thursday,unknown,unknown,"20.855876060967244,-156.30861665432363",,yes,grocery
+Maui,St. John Episcopal Church,Upcountry Maui,Groceries,"Pantry on Fridays 10:30am - 1pm,
+",Call to request and arrange pick-up ahead of time,"8992 Kula Hwy., Kula",808-878-1485,friday,unknown,unknown,"20.70754541745378,-156.35419727376484",,yes,grocery
+Maui,St. John Episcopal Church,Upcountry Maui,Prepared Meals,Dinner on last Friday of the month 5-6pm,Call to request and arrange pick-up ahead of time,"8992 Kula Hwy., Kula",808-878-1485,saturday,unknown,unknown,"20.70754541745378,-156.35419727376484",,yes,meals
+Maui,Upcountry Strong,Upcountry Maui,Groceries,"June 1st, 9:00am-11:00am
+SERVICES PAUSED",Drive through distribution. Pre-registration linked here: https://www.upcountrystrong.org/distributions,"Oskie Rice Arena, Olinda Rd., Makawao",808-298-9257,friday,unknown,unknown,"20.856217,-156.3166528",,yes,grocery
+Maui,Hope Chapel North Shore,North Maui,Groceries,Every Friday 9-11am,,"810 Haiku Rd, Haiku (Cannery)",808-575-2650,friday,unknown,unknown,"20.905776,-156.3225107",,yes,grocery
+Maui,Waipuna Chapel Outreach,North Maui,Groceries,Every Monday 9-10am while supplies last,,"134 Hana Hwy, Paia, HI 96779 (Paia Public Parking Lot)",808-280-8480,monday,unknown,unknown,"20.915033264303634,-156.38240151116122",,yes,grocery
+Maui,Youth With A Mission,North Maui,Groceries,Monday through Friday 9am - 2pm,"Call to request and arrange pick up, Monday through Friday","375 W Kuiaha Rd, Haiku",808-491-6669,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.920504300535526,-156.30785732885454",,yes,grocery
+Maui,Hale Hulu Mamo,East Maui,Groceries,Monday - Friday 10am-12pm,Please call ahead,"5101 Uakea Road Bldg G, Hana",808-248-8833,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.753441442172377,-155.98406843840934",,yes,grocery
+Maui,Ohana Makamae,East Maui,Groceries,Every 2nd and 4th Thursday of the month 9am-11am (call for urgent requests for food),Drive up to the back of the building and stay in your car. Food will be brought out to you.,"39 Keanini Street, Hana",808-248-8538,"thursday,appointment",unknown,unknown,"20.756306,-155.9870512",,yes,grocery
+Maui,Calvary Chapel South Maui Pantry,South Maui,Groceries,Monday - Thursday 9am-2pm,Please check in upstairs at the church main office.,"320 Ohukai Rd Ste. 420, Kihei",808-280-3905,"monday,tuesday,wednesday,thursday",unknown,unknown,"20.773887,-156.450867",,yes,grocery
+Maui,Hale Kau Kau,South Maui,Prepared Meals,"Mon-Fri 5-6pm 
+Sat-Sun 4:30-5:30pm","All are welcome, no questions asked","St. Theresa Church 
+25 W. Lipoa St., Kihei",808-875-8754,"monday,tuesday,wednesday,thursday,friday,saturday,sunday",unknown,unknown,"20.7469521,-156.4554877",,yes,meals
+Maui,Keolahou Church,South Maui,Groceries,Every Friday 9am - 10am,,"177 S. Kihei Rd., Kihei",808-879-4693,friday,unknown,unknown,"20.77908019703561,-156.46083575802254",,yes,grocery
+Maui,Da Market,West Maui,Groceries,"Monday through Friday 9am - 3pm 
+Closed major Holidays",For individuals impacted by the fires. Walk-ins welcome.,"48 Ulupono St. #101, Lahaina",808-866-5260,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.884849335347635,-156.67688925648892",,yes,grocery
+Maui,Napili Noho,West Maui,Disaster Relief,"Mon, Tues, Thurs-Sat 10am - 4pm, Fri 10am-6pm",,"50 Maiha St., Lahaina",,"monday,tuesday,thursday,friday,saturday",unknown,unknown,"20.9873438,-156.6609872",,yes,emergency
+Maui,Pohaku Park,West Maui,Disaster Relief,By appointments only,,"4085 Lower Honoapiilani Rd, Lahaina, HI 96761",,appointment,unknown,unknown,"20.9678365,-156.6811048",,yes,emergency
+Lanai,Maui Economic Opportunity (MEO) Lanai,Lanai City,Groceries,Monday - Friday 8:00 am to 4:30 pm,Please call a head of time,"1144 Ilima Avenue, Lanai",808-565-6665,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"20.82142385985968,-156.91741498060216",,yes,grocery
+Lanai,Sacred Hearts Lanai Food Pantry,Lanai City,Groceries,Every 3rd Friday of the month 3pm - 5pm,Please wait in line outside pantry doors to be served.,"815 Fraser Avenue, Lanai",808-565-6837,friday,unknown,unknown,"20.823919159158063,-156.9210135163513",,yes,grocery
+Molokai,Child and Family Service,Molokai,Groceries,Every third Thursday of the month at 10:00-12:00. Monday-Friday 8am-4pm,Please call ahead to confirm.,"20A Ala Malama street, Kaunakakai",808-553-5529,"monday,tuesday,wednesday,thursday,friday,appointment",unknown,unknown,"21.089656840939,-157.02215774819598",,yes,grocery
+Molokai,Grace Episcopal Church Pantry,Molokai,Groceries,"Every third Thursday & Friday of every month, Thursday 12:00-2:00pm; Friday 9:00-11:00am",Contact Coordinator Mahina (808)658-1169; or Kanani (808)658-1990,"2210 Farington Ave, Ho'olehua",808-658-1169,"thursday,friday",unknown,unknown,"21.163936082346655,-157.05193065493145",,yes,grocery
+Molokai,Ka Hale Pomaika'i,Molokai,Groceries,"Tuesday, Wednesday, Thursday","By reservation only, please call first","7533 Kamehameha V Hwy., Ualapue",808-558-8480,"tuesday,wedneday,thursday",unknown,unknown,"21.0853693,-157.0129416",,yes,grocery
+Molokai,King's Chapel Pantry,Molokai,Groceries,"Every 3rd Thursday of the month 1pm, and as needed for emergency food assistance","By reservation only, please call first","Kamehameha V Hwy & Oki Pl, Kaunakakai",808-553-5540,"thursday,appointment",unknown,unknown,"21.087275311419774,-157.01836958213488",,yes,grocery
+Molokai,Maui Economic Opportunity (MEO) Molokai,Molokai,Groceries,"Every 3rd Thursday of the month 11:30 am,
+Monday-Friday 7:45 am - 4:30 pm",,380 Kolapa Place Kaunakakai,808-553-3216,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"21.0886472,-157.0127412",,yes,grocery
+Molokai,Molokai Baptist Church,Molokai,Groceries,"Tuesday, Wednesday, Friday 8am-12pm",,"495 Puupeelua Ave., Hoolehua",808-567-6689,"tuesday,wedneday,friday",unknown,unknown,"21.1636736,-157.0704484",,yes,grocery
+Molokai,Molokai Community Health Center,Molokai,Groceries,"Monday-Friday, 8am - 3pm",Building 10 (kitchen),"30 Oki Place, Kaunakakai",808-653-6379,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"21.0860191,-157.0192094",,yes,grocery
+Molokai,St. Damien of Molokai Parish,Molokai,Groceries,Every 3rd Friday 8am-10am (drive thru distribution),Walk-ins welcome for emergency food,"115 Ala Malama Ave., Kaunakakai",808-553-5220,friday,unknown,unknown,"21.091129416298067,-157.01997142871602",,yes,grocery
+Molokai,Salvation Army Molokai,Molokai,Groceries,"Every 3rd Thursday 3:00 pm - 6:00 pm 
+Every 3rd Friday 10:00 am - 1: 00 pm, 
+and as needed for emergency food assistance",Please call to request food and arrange delivery. Leave a message if no answer.,Mobile Pantry serves Ho'olehua area,808-213-5674,"thursday,friday,appointment",unknown,unknown,"21.1443935,-157.0226297",,yes,grocery
+Molokai,Sustainable Molokai,Molokai,Groceries,Every Tuesday 10am - 2pm,,"200 Maunaloa Hwy., Maunaloa",808-336-0910,tuesday,unknown,unknown,"21.0900063,-157.0219034",,yes,grocery
+Molokai,Waialua Congregational Church,Molokai,Groceries,"Every 3rd Thursday of the month 3-5 pm, 
+and as needed for emergency food assistance",Call to request food as needed,10417 Kamehameha V Hwy.,808-558-8143,"thursday,appointment",unknown,unknown,"21.098484,-156.757175",,yes,grocery
+Kauai,Anahola Beach Park,Anahola,Food Pantry,Wednesday 10:30 a.m. until pau,,Anahola Beach Park (across entrance),808-826-6481,wednesday,unknown,unknown,"22.1457356,-159.300134",,yes,pantry
+Kauai,ʻEleʻele Baptist Church,ʻEleʻele,Food Pantry,Second Saturday (drive through) 7:30-8:30 a.m.,,"339 Mehana Rd., ʻEleʻele, HI 96705",808-332-5906,saturday,unknown,unknown,"21.9068501,-159.5800367",,yes,pantry
+Kauai,St. Wiliam Church,Hanalei,Food Pantry,Thursday 4-5 p.m.,,"5292-A Kuhio Hwy., Hanalei, HI 96714",808-346-2850,thursday,unknown,unknown,"39.1075761,-84.5863459",,yes,pantry
+Kauai,Hanapēpē Salvation Army,Hanapēpē,Food Pantry,"Monday 5-6 p.m. 
+Wednesday 11 a.m. - Noon 
+Friday 11 a.m. - Noon",,"4465 Puolo Rd., Hanapēpē, HI 96716",808-335-5441,"monday,wednesday,friday",unknown,unknown,"21.907008738490205,-159.5930674071513",,yes,pantry
+Kauai,Hanapēpē Salvation Army,Hanapēpē,Emergency Food Pantry,(Call for emergency food),(Call for emergency food),"4465 Puolo Rd., Hanapēpē, HI 96717",808-335-5441,appointment,unknown,unknown,"21.907008738490205,-159.5930674071513",,yes,emergency
+Kauai,Holy Cross Church,Kalāheo,Food Pantry,First Friday 4-5 p.m.,,"2-2370 Kaumualiʻi Hwy., Kalāheo, HI 96741",808-332-8011,friday,unknown,unknown,"21.924984109779604,-159.5291170643274",,yes,meals
+Kauai,ʻOhana Christian Fellowship,Kapaʻa,Food Pantry,Last Saturday of the Month 1-3 p.m.,,"4531 Pouli St., Kapaʻa, HI 96746",,saturday,unknown,unknown,"22.060319916028632,-159.323177379125",,yes,pantry
+Kauai,Hale Hoʻomalu,Kapaʻa,Food Pantry,"Wednesday Noon - 3 p.m. 
+Thursday 3:30-5:45 p.m.",,"4-1112 Kuhio Hwy., Kapaʻa, HI 9674",808-821-2520,"wednesday,thursday",unknown,unknown,"22.06926802479865,-159.31914794920064",,yes,pantry
+Kauai,"Hoʻomana Thrift Store
+",Kapaʻa,Food Pantry,"Every Friday 2-5 p.m.
+",,"4531 Kuamoʻo Rd., HI 96746",808-346-6561,friday,unknown,unknown,"22.047290516103914,-159.33662866758206",,yes,pantry
+Kauai,St. Catherine Parish (K007),Kapaʻa,Food Pantry,"Every Saturday 11:30 a.m. - 1 p.m.
+",,"5021 Kawaihau Rd., Kapaʻa, HI 96747",808-822-7900,saturday,unknown,unknown,"22.09087588991097,-159.3175367109167",,yes,pantry
+Kauai,Kapaʻa Missionary Church,Kapaʻa,Food Pantry,Every Saturday 4:30-5:30 p.m.,,"4-758 Kuhio Hwy, Kapaʻa, HI 96746",808-822-5594,sunday,unknown,unknown,"22.060045809931836,-159.3218130352089",,yes,pantry
+Kauai,"Westside Christian Center - Assembly
+of God",Kekaha,Food Pantry,Fourth Thursday 10 a.m. until pau,,"8041 Kekaha Rd., Kekaha, HI 96752",808-634-7040,thursday,unknown,unknown,"21.973971407342475,-159.71740807612838",,yes,pantry
+Kauai,Anaina Hou,Kīlauea,Food Pantry,Every Saturday 12:30-2 p.m.,,"5-2723 Kuhio Hwy., Kīlauea, HI 96754",970-618-8889,saturday,unknown,unknown,"22.210965450842842,-159.4160610738552",,yes,pantry
+Kauai,St. Raphael's Church,Kōloa,Food Pantry,Third Thursday 4:30-6 p.m.,,"3011 Hapa Rd., Kōloa, HI 96756",,thursday,unknown,unknown,"21.894103146501834,-159.45710087796002",,yes,pantry
+Kauai,St. Michael's Church,Līhuʻe,Food Pantry,First and Third Wednesday 9-10 a.m.,,"Vidinha Stadium, Hoʻolako St., Līhuʻe, HI 96766",417-282-5085,wednesday,unknown,unknown,"21.972668186467,-159.35565494824198",,yes,pantry
+Kauai,Līhuʻe Salvation Army,Līhuʻe,Food Pantry,"Tuesday to Saturay 11 a.m. - Noon
+Sunday 10:30-11 a.m.",,"4182 Hardy St., Līhuʻe, HI 96766",808-245-2571,"tuesday,wedneday,thursday,friday,saturday,sunday",unknown,unknown,"21.97299574300772,-159.36304417995302",,yes,pantry
+Kauai,Kauai Economic Opportunity,Līhuʻe,Food Pantry,Monday - Friday 10:00 a.m. - 4:00 p.m.,,2804 Wehe Rd. Līhuʻe HI 96766,808-245-4077,"monday,tuesday,wednesday,thursday,friday",unknown,unknown,"21.97141438425365,-159.37459036096556",,yes,pantry
+Kauai,Kauaʻi Bible Church,ʻŌmaʻo,Food Pantry,Every Sunday 11:30 a.m. - Noon,,"2-4131 Kauamualiʻi Rd., Koloa, HI 96756",808-742-7514,sunday,unknown,unknown,"21.92744974676078,-159.49030141920102",,yes,pantry
+Kauai,Church of the Pacific,Princeville,Food Pantry,Wednesday 1-2:30 p.m.,,"4520 Kapaka Rd., Princeville, HI 96722",,wednesday,unknown,unknown,"22.208995947792882,-159.4643821054474",,yes,pantry
+Kauai,Nana's House (Child & Family Service),Waimea,Food Pantry,"Monday 2-4 p.m.
+Wednesday 9-11 a.m. and 1-4 p.m.
+Thursday 1-4 p.m.",,"9875 Waimea Rd., Waimea, HI 96796",808-338-0252,"monday,wednesday,thursday",unknown,unknown,"21.95516128276169,-159.66724056064675",,yes,pantry
+Kauai,Hanapēpē Salvation Army,Hanapēpē,Prepared Meals,"Monday 5-6 p.m. 
+Wednesday 11 a.m. - Noon 
+Friday 11 a.m. - Noon",(Call for emergency food),"4465 Puolo Rd., Hanapēpē, HI 96716",808-335-5441,"monday,wednesday,friday",unknown,unknown,"21.9072341,-159.5930119",,yes,meals
+Kauai,Kapaʻa Missionary Church,Kapaʻa,Prepared Meals,Second and Fourth Saturday 4:30-5 p.m,,"4-758 Kuhio Hwy, Kapaʻa, HI 96746",808-822-5594,saturday,unknown,unknown,"22.0601253,-159.3218962",,yes,meals
+Kauai,Kapaʻa United Church of Christ,Kapaʻa,Prepared Meals,"Sunday 1-4 p.m.
+",,"1315 Ulu Street, Kapaʻa, HI 96746",808-822-9241,sunday,unknown,unknown,"22.074780035987363,-159.31971120531966",,yes,meals
+Kauai,Līhuʻe Salvation Army,Līhuʻe,Prepared Meals,"Tuesday and Thursday 11 a.m. - Noon
+",,"4182 Hardy St, Līhuʻe, HI 96766",808-245-2571,"tuesday,thursday",unknown,unknown,"21.972952983508918,-159.36300318211593",,yes,meals
+Island of Hawaii,"Salvation Army Lanai
+",Hilo,Soup Kitchen,"12:00-1:00 PM Every Monday (Lunch)
+7:30 AM (Breakfast) Tuesday[last 3 weeks of every month]
+7:30 AM (Breakfast) Wednesday [Last 3 weeks of every month]","(except holidays)
+Tuesday and Wednesday only last 3 weeks of every month","219 Ponahawai St (Downtown Hilo)
+",935-1277,"monday,tuesday,wednesday",unknown,unknown,"20.8165975,-156.9273193",,yes,meals
+Island of Hawaii,Hilo United Methodist Church,Hilo,Soup Kitchen,"Every Tuesday 5:00 PM Dinner (To Go)
+Every Thursday 5:00 PM
+Dinner (To Go)",,Hilo United Methodist Church) 374 Waianuenue Ave (Downtown Hilo),935-2144,"tuesday,thursday",unknown,unknown,"19.7240041,-155.0914565",,yes,meals
+Island of Hawaii,Honokaa Hongwanji,Hamakua,Soup Kitchen,"Every Friday 4:00-5:30 PM Dinner
+(except holidays)
+",Every Friday,"Honokaa Hongwanji
+45-516 Lehua St
+Every Friday",775-7232,friday,unknown,unknown,"20.0786721,-155.4700087",,yes,meals
+Island of Hawaii,Annunciation Catholic Church,Kohala,Food Pantry,8:30-10:00 AM(except holidays),2nd & 4th Tuesday of the month,65-1235 Kawaihae Rd - Waimea,887-1220,tuesday,unknown,unknown,"20.02151956724907,-155.67057402087084",,yes,pantry
+Island of Hawaii,Kokua Christian Ministries,Kohala,Food Pantry,9:30 AM-12:30 PM(except holidays),,"65-1078 Mamalahoa Hwy
+New Hope Church",895-3056,wednesday,unknown,unknown,"20.024707353273914,-155.6621735309688",,yes,pantry
+Island of Hawaii,Sacred Hearts - Hawi,Kohala,Food Pantry,9:00-10:00 AM(except holidays),3rd Thursday of the month,55-3374 Akoni Pule Hwy Hawi,"899-5115
+Or
+640-2188",thursday,unknown,unknown,"20.237973941735145,-155.83422780973262",,yes,pantry
+Island of Hawaii,Kurtistown Assembly of God,Puna,Soup Kitchen,Last two Saturdays of the month 9:00 AM Brunch (except holidays) ,Last two Saturdays of the month,"Kurtistown Assembly of God
+17-550 Volcano Rd
+",960-8721,saturday,unknown,unknown,"19.5817619,-155.0627679",,yes,meals
+Island of Hawaii,Ola`a First Hawaiian Community Church,Puna,Soup Kitchen,4th Saturday of the month 11:00-12:30 PM (Lunch),"Served at Kurtistown Park
+4th Saturday of the month","Ola`a First Hawaiian Community Church(Served at Kurtistown Park
+)",345-1670,saturday,unknown,unknown,"19.591670826538675,-155.05999645037573",,yes,meals
+Island of Hawaii,Hale Pule Ke`ola Hou,Hilo,Soup Kitchen,4th Saturday of the month 11:00 AM-1:00 PM,4th Saturday of the month,"Hale Pule Ke`ola Hou
+219 Ponahawai St (Keaukaha)
+4th Saturday of the month",933-4463,saturday,unknown,unknown,"19.7354336,-155.0423547",,yes,meals
+Island of Hawaii,Salvation Army Lanai,Hilo,Soup Kitchen,"Call first
+vegan meal","4th Saturday of the month (Call first
+vegan meal)","Salvation Army Lanai
+219 Ponahawai St (Downtown Hilo)
+*4th Saturday of the month",935-1277,sunday,unknown,unknown,"20.8165975,-156.9273193",,yes,meals
+Island of Hawaii,Salvation Army – Honokaa,Hamakua,Food Pantry,Every Wednesday 9:00 AM-12:00 PM,,"Salvation Army – Honokaa
+45-511 Rickard Pl Honokaa",775-7346,wednesday,unknown,unknown,"20.0773476,-155.4648503",,yes,pantry
+Island of Hawaii,Immaculate Heart of Mary,Hamakua,Food Pantry,3rd Thursday of the month 9:30-10:30 AM (except holidays),3rd Thursday of the month (except holidays),"Immaculate Heart of Mary
+27-186 Kaapoko Homestead Rd Papaikou
+",964-1240,thursday,unknown,unknown,"19.790594765028636,-155.09522918566287",,yes,pantry
+Island of Hawaii,Honokaa Hongwanji,Hamakua,Food Pantry,Every Friday 4:00-5:30 PM (except holidays),,"Honokaa Hongwanji
+45-516 Lehua Honokaa
+",775-7232,friday,unknown,unknown,"20.0786721,-155.4700087",,yes,pantry
+Island of Hawaii,First Assembly of God,Hamakua,Food Pantry,3rd Saturday 10:00 AM-12:00 PM (except holidays),3rd Saturday (except holidays),"First Assembly of God
+28-1104 Old Mamalahoa Hwy Pepeekeo",964-3073,saturday,unknown,unknown,"19.831336238573613,-155.09678072746908",,yes,pantry
+Island of Hawaii,O Ka`u Kakou Pantry,Ka’u,Food Pantry,4th Tuesday of the month 10:00 AM,"Kau District Gym in Pahala
+4th Tuesday of the month","O Ka`u Kakou Pantry
+96-1149 Kamani Street.
+Kau District Gym in Pahala
+",938-5124,tuesday,unknown,unknown,"19.20111863419396,-155.4735883288698",,yes,pantry
+Island of Hawaii,Ka`u Food Pantry - Oceanview,Ka’u,Food Pantry,Last Tuesday of the month 09:30 AM (except holidays),"St. Jude’s above Kahuku Park
+Last Tuesday of the month","Ka`u Food Pantry - Oceanview
+92-8606 Paradise Mauka Cir
+St. Judeâ",224-209-9404,tuesday,unknown,unknown,"19.088074828352404,-155.7626274688948",,yes,pantry
+Island of Hawaii,Sacred Hearts – Loaves and Fishes,Ka’u,Food Pantry,4th Thursday of the month 9:00-10:30 AM (except holidays),4th Thursday of the month,"Sacred Hearts – Loaves and Fishes
+95-558 Mamalahoa Hwy - Naalehu",929-7474,thursday,unknown,unknown,"19.06267999219171,-155.58184046562593",,yes,pantry
+Island of Hawaii,Hawaiian Beaches Pantry,Puna,Food Pantry,4th Monday of the month 11:00 AM ,4th Monday of the month (except holidays),"Hawaiian Beaches Pantry
+15-2727 Manini St, Pahoa
+",896-8393,monday,unknown,unknown,"19.8986819,-155.6658568",,yes,pantry
+Island of Hawaii,H.P.P. Community Center,Puna,Food Pantry,4th Tuesday of the month 13:00 PM,4th Tuesday of the month,"H.P.P. Community Center
+15-1570 Makuu Dr. Keaau",895-3529,tuesday,unknown,unknown,"19.572427,-154.957753",,yes,pantry
+Island of Hawaii,Cooper Center Community Pantry,Puna,Food Pantry,"Last Wednesday of the month
+9:30-11:00 AM (except holidays) ",Last Wednesday of the month,"Cooper Center Community Pantry
+19-4030 Wright Rd Volcano",967-7800,wednesday,unknown,unknown,"19.434181006887382,-155.23008141436824",,yes,pantry
+Island of Hawaii,Nanawale Longhouse,Puna,Food Pantry,Last Wednesday of the month 11:00 AM (except holidays),Last Wednesday of the month,"Nanawale Longhouse
+14-855 Kehau Rd Nanawale",896-8393,wednesday,unknown,unknown,"19.49587313407599,-154.91464540639663",,yes,pantry
+Island of Hawaii,Orchidland Neighbors,Puna,Food Pantry,Last Wednesday of the month 11:00 AM (except holidays),Last Wednesday of the month,"Orchidland LDS Church 16-105 Orchidland Dr Keaau
+",854-1225,wednesday,unknown,unknown,"19.55971366584074,-154.99253422420364",,yes,pantry
+Island of Hawaii,St. Theresa Parish,Puna,Food Pantry,"4th Thursday of the month
+9:00-11:00 AM (except holidays)",4th Thursday of the month,"18-1355 Volcano Rd Mountain View
+Next to gym at Na Wai Ola School",365-4221,thursday,unknown,unknown,"19.548758452999373,-155.10855585055253",,yes,pantry
+Island of Hawaii,Fern Acres Community Center,Puna,Food Pantry,3rd Thursday of the month 11:00 AM (except holidays),3rd Thursday of the month,11-3602 Lehua St Mountain View,430-6736,thursday,unknown,unknown,"47.96430400000001,-124.378583",,yes,pantry
+Island of Hawaii,Eden Roc Community Center,Puna,Food Pantry,3rd Thursday of the month 10:00 AM (except holidays),3rd Thursday of the month,"Eden Roc Community Center
+8th Rd Ahi St. Mountain View
+",933-6030,thursday,unknown,unknown,"19.497128705834307,-155.10628091825768",,yes,pantry
+Island of Hawaii,Pahoa Sacred Hearts Parish Hall,Puna,Food Pantry,3rd Thursday of the month 10:00 AM-12:00 PM (except holidays),3rd Thursday of the month,"15-3003 Pahoa Village Rd Pahoa
+",443-3905,thursday,unknown,unknown,"19.4954397,-154.9494112",,yes,pantry
+Island of Hawaii,Pahoa Pantry @ New Hope Church,Puna,Food Pantry,"2nd Friday of the month 1:00-2:00 PM (except holidays)
+",2nd Friday of the month,"15-3083 Kapoho Rd, Pahoa
+",965-0006,friday,unknown,unknown,"19.4954397,-154.9494112",,yes,pantry
+Island of Hawaii,Kurtistown Assembly of God,Puna,Food Pantry,Last two Saturdays of the month 9:00-10:15 AM (except holidays),Last two Saturdays of the month,"17-550 Volcano Rd Kurtistown
+",960-8721,saturday,unknown,unknown,"19.5817619,-155.0627679",,yes,pantry
+Island of Hawaii,Hilo Korean Christian Church,Puna,Food Pantry,Last Saturday of the month 1:30-3:00 PM  (except holidays),Last Saturday of the month,"17-248 Volcano Rd Kurtistown
+",966-6511,saturday,unknown,unknown,"19.6067236,-155.0508196",,yes,pantry
+Island of Hawaii,Seventh Day Adventist Church,Hilo,Food Pantry,3rd Monday of the month 10:00 AM (except holidays) ,3rd Monday of the month,"Seventh Day Adventist Church
+162 Kapiolani St
+",933-6030,monday,unknown,unknown,"19.719890964646616,-155.08888045805043",,yes,pantry
+Island of Hawaii,Joseph’s Storehouse,Hilo,Food Pantry,Last Tuesday of the month 11:00 AM-12:00 PM (except holidays),Last Tuesday of the month,"Joseph’s Storehouse
+183 Keawe St.
+Old Under His Wings building",935-7004,tuesday,unknown,unknown,"19.724695531853893,-155.08702906240342",,yes,pantry
+Island of Hawaii,Malia Puka O Kalani Church,Hilo,Food Pantry,3rd Wednesday of the month 10:30-11:30 AM (except holidays),3rd Wednesday of the month,"Malia Puka O Kalani Church
+326 Desha Ave.",781-3839,wednesday,unknown,unknown,"19.7298344,-155.0427626",,yes,pantry
+Island of Hawaii,Living Waters Church,Hilo,Food Pantry,2nd & 4th Thursday of the month 10:00-11:00 AM (except holidays),2nd & 4th Thursday of the month,"Living Waters Church
+89 Maikai St. Hilo
+Behind Kinoole Sr. Housing
+2nd & 4th Thursday of the month",959-9524,thursday,unknown,unknown,"49.1677584,-122.5810047",,yes,pantry
+Island of Hawaii,Grace Baptist Church,Hilo,Food Pantry,4th Thursday of the month 11:30 AM (except holidays) ,4th Thursday of the month,"Grace Baptist Church
+2575 Kilauea Ave. Hilo
+4th Thursday of the month",959-6711,thursday,unknown,unknown,"19.67887723324581,-155.06647086902515",,yes,pantry
+Island of Hawaii,Salvation Army Lanai,Hilo,Food Pantry,"Every Friday 9:00-11:00 AM 
+(except holidays)","Please bring proof of household size
+and names of each member","Salvation Army Lanai
+219 Ponahawai St (Downtown Hilo)
+",935-1277,friday,unknown,unknown,"20.8165975,-156.9273193",,yes,pantry
+Island of Hawaii,Malu Aina,Puna,Emergency Food Pantry,Tuesday to Saturday 9:00 AM-4:00 PM (except holidays),"Jim 966-7622
+Call to set place and time","Malu Aina
+Services Lower Keaau – Upper Puna","Jim 966-7622
+Call to set place and time","tuesday,wedneday,thursday,friday,saturday",unknown,unknown,"19.561575998859112,-155.066110318064",,yes,emergency
+Island of Hawaii,Mountain View,Puna,Emergency Food Pantry,"Monday, Tuesday, & Thursday 1:00-3:00pm (except holidays)","Raquel 365-4221
+Call to set place and time
+(alternate pick-up locations may
+be able to be arranged)","Mountain View
+Main pick-up location is St. Theresa
+Parish –
+18-1355 Volcano Hwy","365-4221
+","monday,tuesday,thursday",unknown,unknown,"37.3860517,-122.0838511",,yes,emergency
+Island of Hawaii,Volcano Cooper Center,Puna,Emergency Food Pantry,Tuesday to Saturday 8:30-11:30 AM (except holidays),"967-7800
+No need to call – just go
+during the posted times. Pick-up in Bookstore","Volcano Cooper Center
+19-4030 Wright Rd Volcano
+Pick-up in Bookstore","967-7800
+No need to call – just go during the posted times","tuesday,wedneday,thursday,friday,saturday",unknown,unknown,"19.4342395,-155.2303737",,yes,emergency
+Island of Hawaii,Salvation Army – Kailua Kona,Kona,Food Pantry,Every Tuesday 11:00-1:00 PM(except holidays),Top of Hamburger Hill,"Salvation Army – Kailua Kona
+75-223 Kalani St (Top of Hamburger Hill)",326-2330,tuesday,unknown,unknown,"19.6419129,-155.9962255",,yes,pantry
+Island of Hawaii,Marshallese New Pentecostal Church,Kona,Food Pantry,3rd Tuesday of the month 11:00 AM-12:00 PM (except holidays),,"Marshallese New Pentecostal Church
+74-5596 Pawai Pl. Kailua-Kona",808-300-8462,tuesday,unknown,unknown,"7.131474,171.184478",,yes,pantry
+Island of Hawaii,Kona Gospel Chapel,Kona,Food Pantry,2nd and 4th Wednesday of the month 10:00-11:00 AM (except holidays),,"Kona Gospel Chapel
+81-1037 Nani Kupuna Pl
+Kealakekua - behind Amer. Savings",323-3110,wednesday,unknown,unknown,"19.6419129,-155.9962255",,yes,pantry
+Island of Hawaii,Bible First Mission Church,Kona,Food Pantry,4th Wednesday of the month 1:00-2:30 PM (except holidays),PLEASE CALL FIRST,"Bible First Mission Church
+82-5976 Mamalahoa Hwy Capt. Cook",435-238-7582,wednesday,unknown,unknown,"19.4824513,-155.899761",,yes,pantry
+Island of Hawaii,St. Benedict Church Capt. Cook,Kona,Food Pantry,"2nd & 4th Friday of the month 9:00-10:00 AM
+(except holidays)",2nd & 4th Friday of the month,"St. Benedict Church Capt. Cook
+84-5140 Painted Church Rd Capt. Cook",328-2227,friday,unknown,unknown,"19.434951819649687,-155.88794852624972",,yes,pantry
+Island of Hawaii,Immaculate Conception Church,Kona,Food Pantry,"2nd & 4th Saturday of the month
+9:00-9:45 AM (except holidays)",2nd & 4th Saturday of the month,"Immaculate Conception Church
+Holualoa – below Holualoa School
+Distributed by St. Michael’s",326-7771,saturday,unknown,unknown,"19.6165893993358, -155.9493924118135",,yes,pantry
+Island of Hawaii,The Friendly Place,Kona,Soup Kitchen,Monday 8:30-9:00 AM Breakfast (except holidays),,"The Friendly Place
+55-5595 Pawai Pl, Old Industrial Area
+Served by Hope Services",217-6183,monday,unknown,unknown,"19.643745,-155.999317",,yes,meals
+Oahu,Aiea 7th Day Adventist Church,Central Oahu,Food Pantry,"Saturday 8:00am - 9:00am
+
+call (808) 488-9855",,"99-005 Moanalua Rd.
+Aiea, HI 96701",(808) 488-9855,"saturday,appointment",yes,no,"21.380895930620294,-157.93412211697375",,yes,pantry
+Oahu,Armed Services YMCA (JBPHH),Central Oahu,Food Pantry,"Monday to Friday 8:00am - 3:00pm
+",(Military installation access required),"100 McChord Street Joint Base Pearl Harbor- Hickam, 96853",808-448-1972,"monday,tuesday,wednesday,thursday,friday",yes,no,"21.33449411223639,-157.9402216810299",,yes,pantry
+Oahu,Armed Services YMCA (Wheeler),Central Oahu,Food Pantry,"Monday to Friday 8:00am - 3:00pm
+",(Military installation access required),"1262 Santos Dumont Ave Bldg. 122
+Wahiawa, 96786",(808) 624-5645,"monday,tuesday,wednesday,thursday,friday",yes,no,"21.4838856130063,-158.0387768649557",,yes,pantry
+Oahu,Brethren of Christ International,Central Oahu,Food Pantry,Sunday 12:00pm - 1:00pm,,"94-133 Pahu St.
+Waipahu HI 96797",(808) 676-4673,sunday,yes,no,"21.382728626059535,-158.00689007705213",,yes,pantry
+Oahu,Calvary Chapel Pearl Harbor,Central Oahu,Food Pantry,1st Saturdays 8:00am - 10:00am,,"94-1044 Waipio Uka St. Waipahu, HI 96797","(808) 372-6753
+or
+(808) 295-1669",saturday,yes,no,"21.413114623949312,-157.99906184093106",,yes,pantry
+Oahu,First Assembly of God Red Hill,Central Oahu,Food Pantry,"Tuesday to Saturday 9:00am - 11:00am
+Or appointments by calling (808) 836-2300",appointments by calling (808) 836-2300,"3400 Moanalua Rd.
+Honolulu, HI 96819",(808) 836-2300,"tuesday,wedneday,thursday,friday,saturday,appointment",yes,yes,"21.36560430076464,-157.90257635609495",,yes,pantry
+Oahu,New Hope Kapolei Ministry Center,Central Oahu,Food Pantry,3rd Saturday  8:00am - 10:00am,,"94-199 Leonui St.
+Waipahu, HI 96797",(808) 680-9669,saturday,yes,no,"21.37791941787077,-158.02031785740795",,yes,pantry
+Oahu,New Life Body of Christ Christian Church,Central Oahu,Food Pantry,Tuesday & Thursday 9:00am - 12:00pm,,"74 S. Kamehameha Hwy. Wahiawa, HI 96786",(808) 622-6650,"tuesday,thursday",yes,yes,"21.494995283934863,-158.0290726823696",,yes,pantry
+Oahu,Our Lady of Sorrows,Central Oahu,Food Pantry,Last Saturday 9:00am - 11:00am,,"1403 California Ave.
+Wahiawa, HI 96786",(808) 621-5109,saturday,yes,yes,"21.501723414735864,-158.01564571846276",,yes,pantry
+Oahu,St. Timothy's Episcopal Church,Central Oahu,Food Pantry,Tuesdays 4:30pm - 6:30pm,,"98-939 Moanalua Rd.
+Aiea, HI 96701",(808) 488-5747,tuesday,yes,no,"21.387309365893085,-157.94540728658205",,yes,pantry
+Oahu,St. Elizabeth Catholic Church,Central Oahu,Food Pantry,"Thursdays 4:30pm - 6:00pm
+(Games 4:30pm - 5:00pm)",,"99-312 Moanalua Rd.
+Aiea, HI 96701",(808) 487-2414,thursday,yes,no,"21.376614218500936,-157.92963012292162",,yes,pantry
+Oahu,St. Joseph Church,Central Oahu,Food Pantry,"Tuesday 2:30pm - 5pm
+Or Call (808) 676-3493 for appointment",Call (808) 676-3493 for appointment,"94-675 Farrington Highway
+Waipahu, HI 96797",(808) 676-3493,"tuesday,appointment",yes,no,"21.382853237498978,-158.00778774098103",,yes,pantry
+Oahu,Surfing the Nation,Central Oahu,Food Pantry,Thursday to Saturday 1:00pm - 3:00pm,,"64 Ohai St.
+Wahiawa, HI 96786",,"thursday,friday,saturday",no,no,"21.494827870730393,-158.02988069628387",,yes,pantry
+Oahu,Voice of God Ministries,Central Oahu,Food Pantry,Wednesdays & Fridays (BY APPOINTMENT ONLY),"BY APPOINTMENT ONLY
+Leave your name and number and they will return your call 11:00am - 1:00pm","233 Akamainui St.
+Mililani, HI 96789",(808) 622-2635,"wednesday,friday",yes,yes,"21.478406585874986,-158.0215493182382",,yes,pantry
+Oahu,Wahiawa 7th Day Adventist Church,Central Oahu,Food Pantry,Last Sunday  9:00am - 11:00am,,"1313 California Ave.
+Wahiawa, HI 96786",(808) 622-3440,sunday,yes,no,"21.501281577667,-158.0184497701098",,yes,pantry
+Oahu,Waipahu Seventh-Day Adventist,Central Oahu,Food Pantry,3rd Sunday 1:00pm - 3:00pm,,"94-902 Awanei St.
+Waipahu, HI 96797",,sunday,yes,no,"21.38183175200635,-158.00171162691763",,yes,pantry
+Oahu,"Angel Network Charities
+",East Honolulu,Food Pantry,"2nd, 4th & 5th Fridays: 10:00am - 12:00pm",https://www.angelnetworkcharities.org/,"5339 Kalanianaole Hwy. Honolulu, HI 96821",(808) 377-1841,friday,yes,no,"21.277925285612092,-157.7491326029346",,yes,pantry
+Oahu,"Kapiolani Community College - Pohukaina Food Pantry
+",East Honolulu,Food Pantry,Thursdays  2:00pm - 5:00pm,"ONLINE REGISTRATION ONLY @ http://go.hawaii.edu/3Ss
+(Parking available in lower Lot B.)","4303 Diamond Head Rd. `iliahi
+231
+Honolulu, HI 96816
+",,thursday,yes,no,"21.268285643772245,-157.79912009517528",,yes,pantry
+Oahu,Waikiki Community Center,East Honolulu,Food Pantry,Tuesdays  1:00pm - 2:00pm,,"310 Paoakalani Ave. Honolulu, HI 96816",(808) 923-1802,tuesday,yes,no,"21.2752654582464,-157.82033929502853",,yes,pantry
+Oahu,Abundant Grace Church,Honolulu,Food Pantry,Wednesdays  10:00am - 12:00pm,,"702 Puuhale Rd.
+Honolulu, HI 96819",(808) 200-1177,wednesday,yes,no,"21.33104209530656,-157.88206576726375",,yes,pantry
+Oahu,Cedar Assembly of God,Honolulu,Food Pantry,1st & 3rd Tuesdays  8:00am - 9:00am,,"620 Waipa Lane
+Honolulu, HI  96817",(808) 379-0257,tuesday,yes,no,"21.321494644803625,-157.86239096120923",,yes,pantry
+Oahu,Church of Christ at Pearl Harbor,Honolulu,Food Pantry,"3rd Saturday 9:00am - 11:30am
+Or make appointment by call
+",call (808) 422-7033 for appointment,"515 Main Street
+Honolulu, 96818",(808) 422-7033,"saturday,appointment",yes,no,"21.34063299243167,-157.93666452978619",,yes,pantry
+Oahu,Church of God Prophecy,Honolulu,Food Pantry,2nd Sunday  10:00am - **While Supplies Last**,Location: Stevenson Recreation Center,"1202 Prospect Street
+Honolulu, HI 96822",(808) 741-0745,sunday,yes,no,"21.311340827860246,-157.841026559921",,yes,pantry
+Oahu,Co-Cathedral of St Theresa,Honolulu,Food Pantry,"Monday - Friday 8:00am - 12:00pm & 2:00pm -4:00pm
+For Last Friday 3:00pm - 5:00pm
+",,"712 N School St. Honolulu, HI 96817",(808) 521-1700,"monday,tuesday,wednesday,thursday,friday",yes,no,"21.324233886832005,-157.86107996741833",,yes,pantry
+Oahu,First United Methodist Church,Honolulu,Food Pantry,Mondays: 2:00pm - 4:00pm,,"1020 S. Beretania Street Honolulu, HI 96814",(808) 522-9555,monday,yes,no,"21.303485361047013,-157.847569969417",,yes,pantry
+Oahu,Full Gospel of Oahu,Honolulu,Food Pantry,Sunday: 8:30am - 1:00pm,,"1680 Kapiolani Blvd
+Honolulu, HI 96814",(808) 942-0854,sunday,no,no,"21.291553073030734,-157.8383300268682",,yes,pantry
+Oahu,Hawaii Cedar Church,Honolulu,Food Pantry,"Sunday: 11:00am - 12:00pm
+Wednesday: 7:00am - 9:00am",,"1545 Kamehameha IV Rd.
+Honolulu HI 96819",,"wednesday,sunday",yes,no,"21.340832092510535,-157.87530819536573",,yes,pantry
+Oahu,Hawaiian Humane Society,Honolulu,Pet Food,"See website for current days of operations
+
+
+","https://hawaiianhumane.org/pet-food-bank/
+","2700 Waialae Ave.
+Honolulu, HI 96826",(808) 356-2222,"monday,tuesday,wednesday,thursday,friday,saturday,sunday,appointment",no,no,"21.29045630864359,-157.81836524107374",,yes,pet
+Oahu,Honolulu Fil-am S.D.A Church,Honolulu,Food Pantry,1st & 3rd Sunday: 9:00am - 1:00pm,,"2232 Kanealii Ave.
+Honolulu, HI 96813",,sunday,yes,yes,"21.320558173569616,-157.84564174366884",,yes,pantry
+Oahu,Kaumakapili Church,Honolulu,Food Pantry,Wednesday: 9:00am - 11:00am,,"766 N King St.
+Honolulu, HI 96817",(808) 845-0908,wednesday,yes,no,"21.321523647795164,-157.8662569347336",,yes,pantry
+Oahu,New Hope International Ministries,Honolulu,Food Pantry,3rd Saturdays 8:00am - 10:00am or by appointment,"call (808) 842-4242 ext. 327
+during Business Hours Only","2223 Hoonee Street
+Honolulu, HI 96819","(808) 842-4242
+ext. 327","saturday,appointment",yes,no,"21.328071720947374,-157.88833497029364",,yes,pantry
+Oahu,Olivet Baptist Church,Honolulu,Food Pantry,"Saturday 9:00am - 11:00am or by appointment
+
+","call (808) 946-6505 or
+(808) 306-6611","1775 S Beretania St. Honolulu, HI 96826","(808) 946-6505
+(808) 306-6611","saturday,appointment",yes,no,"21.29740313417649,-157.83245861517725",,yes,pantry
+Oahu,Palama Settlement,Honolulu,Food Pantry,"Monday, Tuesday, Thursday, Friday: 9:00am - 11:00am
+Or by appointment",call (808) 848-2529,"810 N. Vineyard Blvd. Honolulu, HI 96817",(808) 848-2529,"monday,tuesday,thursday,friday,appointment",yes,no,"21.323389166254938,-157.86393953134106",,yes,pantry
+Oahu,Parents And Children Together,Honolulu,Food Pantry,"Monday, Wednesday,Friday: 8:30am - 4:00pm",Location: KPT Family Center,"1485 Linapuni St. Suite 103
+Honolulu, HI 96819",(808) 841-6177,"monday,wednesday,friday",no,no,"21.337548890933768,-157.8762480119228",,yes,pantry
+Oahu,The Parish of St. Clement,Honolulu,Food Pantry,Wednesday: 10:00am - 12:00pm,,"1515 Wilder Ave.
+Honolulu, HI 96822",,wednesday,yes,yes,"21.30337608944773,-157.83509710993386",,yes,pantry
+Oahu,River of Life Mission,Honolulu,Food Pantry,2nd & 4th Friday :10:30am - 3:00pm,,"101 N. Pauahi St.
+Honolulu, HI 96817",,friday,yes,no,"21.312870546771457,-157.86235875116975",,yes,pantry
+Oahu,The Salvation Army Family Services Office,Honolulu,Food Pantry,"
+12:30pm - 2:30pm",,"296 N Vineyard Blvd.
+Honolulu, HI 96817",(808) 521-6551,"monday,wednesday",yes,no,"21.317654484334522,-157.8597628933104",,yes,pantry
+Oahu,St. Elizabeth’s Episcopal Church,Honolulu,Food Pantry,Monday to Wednesday: 8:00am - 12:00pm,,"720 North King St.
+Honolulu, HI 96817",,"monday,tuesday,wednesday,thursday,friday,saturday",yes,yes,"21.321089348472604,-157.8662301553896",,yes,pantry
+Oahu,St. John the Baptist Catholic Church,Honolulu,Food Pantry,4th Wednesday:10:30am - 12:30pm,,"2340 Omilo Ln.
+Honolulu, HI 96819",(808) 845-0984,wednesday,yes,no,"21.337846724480222,-157.88143375476264",,yes,pantry
+Oahu,St. Pius X Parish,Honolulu,Food Pantry,Wednesday & Friday: 10:00am - 11:30am,,"2821 Lowrey Ave.
+Honolulu, HI 96822",(808) 988-3308,"wednesday,friday",yes,yes,"21.311300105461275,-157.8093438965525",,yes,pantry
+Oahu,Su Gran Alabanza,Honolulu,Food Pantry,Wednesdays: 10:30am - 12:00pm,,"701 N King St.
+Honolulu, HI 96817",(808) 843-8082,wednesday,no,no,"21.320205696181937,-157.86652111570132",,yes,pantry
+Oahu,Susannah Wesley Community Center,Honolulu,Food Pantry,Tuesday & Thursday: 12:00pm - 2:00pm,,"1117 Kaili St.
+Honolulu, HI 96819",(808) 847-1535,"tuesday,thursday",yes,yes,"21.33254727502922,-157.87573992264294",,yes,pantry
+Oahu,The Pantry by Feeding Hawaii Together,Honolulu,Food Pantry,Pre-order at thepantry.org and receive a confirmation email with pick up date/times.,"By appointment only. Register and shop online at thepantry.org
+","2522 Rose St.
+Honolulu, HI 96819",(808) 888-0778,appointment,yes,yes,"21.342579149230126,-157.88084911338834",,yes,pantry
+Oahu,City of Refuge Church,Leeward Coast,Food Pantry,"1st & 3rd Friday  3:00pm - **While Supplies
+Last**",,"94-897 Waipahu St.
+Waipahu, HI 96797",(808) 677-5677,friday,yes,no,"21.386069799563366,-158.0062980865116",,yes,pantry
+Oahu,Elepaio Social Services,Leeward Coast,Food Pantry,Mondays: 10:00am - 12:00pm,"Location: Learning Center @ Maili
+","87-790 Kulauka St.
+Waianae, HI 96792",(808) 697-3526,monday,yes,no,"21.410178971125728,-158.17120317277852",,yes,pantry
+Oahu,Elepaio Social Services,Leeward Coast,Food Pantry,Wednesdays: 10:00am - 12:00pm,Location: Waianae Elementary,"85-220 McArthur St. Waianae, HI 96792",(808) 697-3526,wednesday,yes,no,"21.446080539599723,-158.18448368337008",,yes,pantry
+Oahu,Elepaio Social Services,Leeward Coast,Food Pantry,Thursdays: 10:00am - 12:00pm,Hoa Aina O Makaha,"87-766 Lahaina St.
+Waianae, HI 96792",(808) 697-3526,thursday,yes,no,"21.46710205280449,-158.21042088349674",,yes,pantry
+Oahu,Elepaio Social Services,Leeward Coast,Food Pantry,Friday: 10:00am - 12:00pm,,"87-1876 Farrington Hwy. Waianae, HI 96792",(808) 697-3526,friday,yes,no,"21.390644543142315,-158.15490556322044",,yes,pantry
+Oahu,Hawaiian Humane Society,Leeward Coast,Pet Food,See website for current days of operations,https://hawaiianhumane.org/pet-food-bank/,"91-1945 Fort Weaver Rd. Ewa Beach, HI 96706",(808) 356-2222,"monday,tuesday,wednesday,thursday,friday,saturday,sunday,appointment",no,no,"21.35976387762469,-158.0306128320596",,yes,pet
+Oahu,Immaculate Conception Church,Leeward Coast,Food Pantry,Fridays: 4:00pm - 6:00pm (Except 1st Friday is Ohana Distribution),(Except 1st Friday is Ohana Distribution),"91-1298 Renton Rd. Ewa Beach, HI 96706",(808) 681-3701,friday,no,no,"21.345710479406375,-158.03336591955576",,yes,pantry
+Oahu,Inspire Church,Leeward Coast,Food Pantry,"Thursday - 9:30am-4:30pm
+Saturday - 4:45pm-6:15pm 
+Sun - 8:00am-1:15pm 
+call (808) 677-8844 for appointment",call (808) 677-8844 for appointment,"94-877 Lumiaina Street, Bldg 12
+Waipahu, HI 96797",(808) 677-8844,"thursday,saturday,sunday,appointment",yes,no,"21.400676550392575,-158.00170304653108",,yes,pantry
+Oahu,Ka Hana O Ke Akua UCC,Leeward Coast,Food Pantry,"7 days a week by appt only: 6:00am - 10:00pm
+call (808) 696-5652",Only by appointments,"86-311 Lualualei Hmstd. Rd.
+Waianae, HI 96792",(808) 696-5652,appointment,yes,no,"21.380043527404258,-158.1425669212908",,yes,pantry
+Oahu,Nanaikapono Protestant Church,Leeward Coast,Food Pantry,"3rd Monday: 8:00am - 10:00am or by appointments
+
+",call (808) 668-1184 for appointments,"89-235 Pua Ave.
+Waianae, HI 96792",(808) 668-1184,"monday,appointment",yes,no,"21.38006038638541,-158.1425454636186",,yes,pantry
+Oahu,Our Lady of Kea'au,Leeward Coast,Food Pantry,3rd Friday: 10:00am - 2:00pm,,"Kea'au Hmstds. Rd. Waianae, HI 96792",(808) 696-7255,friday,yes,no,"21.502823,-158.225337",,yes,pantry
+Oahu,Our Lady of Perpetual Help,Leeward Coast,Food Pantry,Last Saturday: 9:00am - 11:00am,,"91-1004 North Rd.
+Ewa Beach, HI 96706",(808) 689-8681,saturday,yes,yes,"21.316722503719213,-158.0067477822056",,yes,pantry
+Oahu,Paradise Chapel,Leeward Coast,Food Pantry,Wednesdays: 7:00am - 9:00am,,"87-125 Maipalaoa Rd. Waianae, HI 96792",(808) 668-1588,wednesday,yes,no,"21.40793906940437,-158.1760616451483",,yes,pantry
+Oahu,St. Jude Catholic Church,Leeward Coast,Food Pantry,"New clients 2:30pm -3:30pm to register
+Tuesday & Thursday: 3:30pm - **While Supplies Last**",New clients 2:30pm -3:30pm to register,"92-455 Makakilo Dr.
+Kapolei, HI 96707",,"tuesday,thursday",yes,yes,"21.343308393166488,-158.0783712553437",,yes,pantry
+Oahu,St. Rita's Church,Leeward Coast,Food Pantry,Monday & Wednesday: 9:30am - 11am,,"89-318 Farrington Highway
+Waianae, HI 96792",(808) 668-7833,"monday,wednesday",yes,no,"21.377572575811474,-158.14080737550822",,yes,pantry
+Oahu,Waianae Baptist Church,Leeward Coast,Food Pantry,Wednesdays: 9:00am - 12:00pm,,"85-131 Ala Hema St. Waianae, HI 96792",,wednesday,yes,yes,"21.45008871523528,-158.18893447017075",,yes,pantry
+Oahu,Waianae Wags,Leeward Coast,Pet Food,"2nd & 4th Saturdays: 10:00am - 12:00pm
+Or call (808) 754-7187 for appointment",,"85-786 Farrington Highway
+Waianae HI 9679",(808) 754-7187,"saturday,appointment",no,no,"21.447336726898826,-158.1885742374697",,yes,pet
+Oahu,Jesus Is Alive Fellowship,North Shore,Food Pantry,Sundays: 12:30pm-1:30pm,,"66-405 Waialua Beach Rd.
+Haleiwa, HI 96712",(808) 754-5949,sunday,yes,no,"21.57580439167133,-158.1182916482627",,yes,pantry
+Oahu,Private Sector Hawaii,North Shore,Food Pantry,"Monday Delivery: 1:00pm - 5:00pm
+call (808) 638-9627 for appointment",Make appointments by calling. Deliveries on Monday,"P. O. Box 1109
+Haleiwa, HI 96712",(808) 638-9627,"monday,appointment",yes,no,"21.58173501730608,-158.10513461265353",,yes,pantry
+Oahu,St. Michael Parish Outreach,North Shore,Food Pantry,"Mondays: 8:30am - 10:30am
+Or call (808) 637-4040 for appointment ",,"67-340 Haona St.
+Waialua, HI 96791","
+(808) 637-4040","monday,appointment",yes,no,"21.56886109395583,-158.12140896152246",,yes,pantry
+Oahu,Sunset Beach Christian Church,North Shore,Food Pantry,Tuesdays: 11:30am - 1:30pm,,"59-578 Kamehameha Highway
+Haleiwa, HI 96712",(808) 638-0019,tuesday,yes,no,"21.655504366739134,-158.05858695176715",,yes,pantry
+Oahu,Armed Services YMCA (MCBH),Windward Coast,Food Pantry,"Monday - Friday: 8:00am - 3:00pm
+(Military installation access required)",(Military installation access required),"455 Bingham Way
+Kailua, Hi 96734",(808) 254-4719,"monday,tuesday,wednesday,thursday,friday",yes,no,"21.44687031423033,-157.75064549827442",,yes,pantry
+Oahu,Central Union Church Windward,Windward Coast,Food Pantry,Wednesdays: 9:00am - 10:00pm,,"38 Kaneohe Bay Dr.
+Kailua, HI 96734",,wednesday,yes,no,"21.422454121895484,-157.74951622269057",,yes,pantry
+Oahu,First Assembly of God Windward,Windward Coast,Food Pantry,Sundays: 9:45am - 12:30pm,,"47-323 Ahuimanu Rd. Kaneohe, HI 96744",,sunday,yes,yes,"21.448979847314078,-157.83389568353377",,yes,pantry
+Oahu,Giving Hope Hawaii,Windward Coast,Food Pantry,,call or go online to schedule an appointment: https://www.givinghopehawaii.org/food-assistance,"46-158 Kahuhipa Street Kaneohe, HI 96744",(808) 620-2537,"monday,tuesday,wednesday,thursday,friday,appointment",yes,no,"21.416549925666455,-157.80473334322465",,yes,pantry
+Oahu,Hui Mahiai Aina,Windward Coast,Food Pantry,Tuesdays: 9:00am - 12:00pm,,"41-902 OluOlu St.
+Waimanalo, Hi 96795",,tuesday,yes,yes,"21.335269647758867,-157.70161340762496",,yes,pantry
+Oahu,Hui O Hau'ula,Windward Coast,Food Pantry,"Monday, Wednesday, Friday: 9:00am - 12:00pm",,"54-010 Kukuna Road Hauula, HI 96717",,"monday,wednesday,friday",yes,yes,"21.608699339502778,-157.90983826805342",,yes,pantry
+Oahu,KEY Project,Windward Coast,Food Pantry,Monday to Friday: 8:00am - 4:00pm,,"47-200 Waihee Rd.
+Kaneohe, HI 96744",(808) 239-5777,"monday,tuesday,wednesday,thursday,friday",yes,no,"21.45770146322193,-157.84339044713195",,yes,pantry
+Oahu,Our Lady of Mount Carmel Church,Windward Coast,Food Pantry,Wednesdays: 10:00am - 12:00pm,,"48-422 Kamehameha Hwy.
+Kaneohe, HI 96744",(808) 239-9269,wednesday,yes,no,"21.495316256002184,-157.85210336643104",,yes,pantry
+Oahu,"Residential Youth Serivces and
+Empowerment (RYSE)",Windward Coast,Food Pantry,Monday to Sunday: 8:00am-8:00pm,,"42-470 Kalanianaʻole Hwy Bldg 6, Kailua, HI 96734",(808) 498-5180,"monday,tuesday,wednesday,thursday,friday,saturday,sunday",yes,no,"21.373524851489293,-157.7502974392703",,yes,pantry
+Oahu,St. Ann's Church,Windward Coast,Food Pantry,"Monday, Tuesday, Wednesday: 1:00pm",call (808) 247-3092 ext. 123 (Only by appointments),"46-129 Haiku Rd.
+Kaneohe, HI 96744","(808) 247-3092
+ext. 123","monday,tuesday,wednesday,appointment",no,no,"21.421829456324126,-157.80556159738535",,yes,pantry
+Oahu,St. Anthony's Outreach,"Windward
+Coast",Food Pantry,Tuesdays & Thursdays 9am - 12pm,,"114 Makawao Street Kailua, HI 96734",(808) 266-2227,"tuesday,thursday",yes,no,"21.400834662232448,-157.73849841132463",,yes,pantry
+Oahu,St. Mark Lutheran Church,"Windward
+Coast",Food Pantry,Saturdays 8:00am - 10:00am,,"45-725 Kamehameha Hwy.
+Kaneohe, HI 96744",(808) 247-4565,saturday,yes,no,"21.407978826534194,-157.79828022758966",,yes,pantry
+Oahu,The Salvation Army Kaneohe,"Windward
+Coast",Food Pantry,Tuesdays 9:00am - 12:00pm,,"45-175 Waikalua Rd. Kaneohe, HI 96744",(808) 235-1408,tuesday,yes,no,"21.415012402854767,-157.79491258935045",,yes,pantry
+Oahu,Windward Baptist Church,"Windward
+Coast",Food Pantry,"Tuesday, Thursday & Friday 11:00am - 12:00pm",,"47-528 A Kamehameha Hwy.
+Kanoehe, HI 96744",(808) 239-6917,"tuesday,thursday,friday",no,no,"21.457490770158923,-157.83896994250077",,yes,pantry
+Oahu,St. Elizabeth Catholic Church,"Central
+Oahu",Food Meals,Thursdays  5:00pm - 6:00pm,,"99-312 Moanalua Rd. Aiea, HI 96701",(808) 487-2414,thursday,no,no,"21.37660955308357,-157.9296317225374",,yes,meals
+Oahu,St. Timothy's Episcopal Church,"Central
+Oahu",Food Meals,2nd & 4th Tuesday 4:30pm - 6:00pm,,"98-939 Moanalua Rd. Aiea, HI 96701",(808) 488-5747,tuesday,yes,no,"21.38695011017255,-157.9459420032321",,yes,meals
+Oahu,First Assembly of God Red Hill,Honolulu,Food Meals,"Sundays 
+After first service:10:00am - 10:30am
+After second service: 12:00pm - 12:30pm",,"3400 Moanalua Rd
+Honolulu, HI 96819",,sunday,yes,no,"21.36558751853045,-157.90258788646506",,yes,meals
+Oahu,First United Methodist Church,Honolulu,Food Meals,Sundays  8:30am - 9:30am,,"1020 S. Beretania Street Honolulu, HI 96814",(808) 522-9555,sunday,yes,no,"21.303510247969093,-157.84756414211486",,yes,meals
+Oahu,River of Life Mission,Honolulu,Food Meals,"Monday - Friday
+Breakfast 8:00am - 10:30am
+Lunch 12:30pm - 2:30pm 
+Dinner 7:00pm - 8:00pm",,"101 N Pauahi St. Honolulu, HI 96817",,"monday,tuesday,wednesday,thursday,friday",yes,no,"21.312853033030244,-157.86235001855493",,yes,meals
+Oahu,The Salvation Army Camp Homelani,Honolulu,Food Meals,"Sundays 7:30pm [CLOSED June - August]
+",CLOSED June - August,"296 N Vineyard Blvd. Honolulu, HI 96817",,sunday,yes,no,"21.317647062845833,-157.85977359207484",,yes,meals
+Oahu,St. Elizabeth’s Episcopal Church,Honolulu,Food Meals,Tuesdays  10:30am - 12:00pm,,"720 N King St.
+Honolulu, HI 96817",,tuesday,yes,no,"21.32108282989539,-157.8662275607773",,yes,meals
+Oahu,Cedar Assembly of God,Honolulu,Food Meals,Tuesdays  8am - 9am,,"620 Waipa Lane
+Honolulu, HI 96817",(808) 379-0257,tuesday,yes,no,"21.321471310590233,-157.86237853853174",,yes,meals
+Oahu,Brethren of Christ International,Leeward Coast,Food Meals,Sundays  12:00pm - 1:00pm,,"94-133 Pahu St.
+Waipahu HI 96797",(808) 676-4673,sunday,yes,no,"21.382500023133836,-158.00670212303265",,yes,meals
+Oahu,Armed Services YMCA JBPHH,Central Oahu,Ohana Produce Plus Program,Fourth Wednesday 1:00pm - 3:00pm,"Pre-registration avalible at https://hawaii.asymca.org/events/
+Location: (Military installation access required)","100 McChord St., Bldg. 1859 Pearl Harbor, HI 96853",(808) 473-3399,wednesday,yes,no,"21.334497143406434,-157.9402848615771",,yes,ohanaPlus
+Oahu,Armed Services YMCA Schofield/Wheeler,Central Oahu,Ohana Produce Plus Program,4th Monday 12:30pm - 2:30pm,"Pre-registration avalible at https://hawaii.asymca.org/events/
+(Military installation access required)","1262 Santos Dumont Ave. Wahiawa, HI 96786",(808) 433-8410,monday,yes,no,"21.483887825401126,-158.03879214107926",,yes,ohanaPlus
+Oahu,Calvary Chapel Pearl Harbor,Central Oahu,Ohana Produce Plus Program,Last Saturday 8:00am,Location: Manana Community Park,"1310 Waimano Home Rd. Pearl City, HI 96782",,saturday,yes,no,"21.400387773061023,-157.96852071708258",,yes,ohanaPlus
+Oahu,First Assembly of God Wahiawa,Central Oahu,Ohana Produce Plus Program,4th Saturday 8:00am - 11:00am,,"300 Wilikina Dr.
+Wahiawa, HI 96786",(808) 836-2300,saturday,yes,no,"21.490417105567378,-158.03346550225376",,yes,ohanaPlus
+Oahu,Inspire Church,Central Oahu,Ohana Produce Plus Program,1st Tuesday 9:00am - 11:00am,"Follow the Organization on Eventbrite to find out when Registration Opens. ONLINE REGISTRATION ONLY @
+https://www.eventbrite.com/o/inspire-church-44520083263
+Location: Patsy T Mink Central Oahu Regional Park","94-801 Kamehameha Hwy.
+Waipahu, HI 96797",,tuesday,yes,no,"21.416756352973216,-158.0095558023945",,yes,ohanaPlus
+Oahu,"Leeward Community Church
+",Central Oahu,Ohana Produce Plus Program,2nd Saturday,"Registration opens Monday prior ONLINE REGISTRATION ONLY @
+http://komomaics.org/food","1860 Komo Mai Dr. Pearl City, HI 96782",(808) 456-1340,saturday,no,no,"21.41579900567712,-157.96179864300765",,yes,ohanaPlus
+Oahu,Lighthouse Outreach Center,Central Oahu,Ohana Produce Plus Program,Fridays: 9:00am - 11:00am,,"94-230 Leokane St.
+Waipahu, HI 96797",,friday,yes,no,"21.380802208399533,-158.02055860879724",,yes,ohanaPlus
+Oahu,"Pearlside Church
+",Central Oahu,Ohana Produce Plus Program,1st Saturday 10:30am - 12:00pm,"Registration opens Monday prior ONLINE REGISTRATION ONLY @
+https://pearlside.org/cares","98-780 Oihana Pl. # C-1, Aiea, HI 96701",(808) 484-0061,saturday,no,no,"21.391890435414002,-157.95173719932802",,yes,ohanaPlus
+Oahu,St. Stephen Episcopal Church,Central Oahu,Ohana Produce Plus Program,2nd Wednesday 10:00am,,"1679 California Ave.
+Wahiawa, HI 96786",,wednesday,yes,no,"21.5022127286902,-158.00849101223054",,yes,ohanaPlus
+Oahu,St. Stephen Episcopal Church,Central Oahu,Ohana Produce Plus Program,4th Wednesday 10:00am,Location: Wahiawa United Methodist Church,"1445 California Ave.
+Wahiawa, HI 96786",,wednesday,yes,no,"21.502682972544825,-158.01463634003116",,yes,ohanaPlus
+Oahu,St. Stephen Episcopal Church,Central Oahu,Ohana Produce Plus Program,2nd Monday 10:00am,Location: Whitmore Community Center,"1259 Whitmore Ave. Wahiawa, HI 96786",,monday,yes,no,"21.511536661751773,-158.01934077215213",,yes,ohanaPlus
+Oahu,Surfing the Nations,Central Oahu,Ohana Produce Plus Program,Thursdays 1:00pm - 2:30pm,When Truck Arrives,"64 Ohai St.
+Wahiawa, HI 96786",,thursday,no,no,"21.4947795697369,-158.0300464270275",,yes,ohanaPlus
+Oahu,Angel Network Charities,East Honolulu,Ohana Produce Plus Program,1st & 3rd Thursday 1:00pm - 3:00pm,DRIVE THRU ONLY,"5339 Kalanianaole Hwy. Honolulu, HI 96821",,thursday,yes,no,"21.278458395610006,-157.74896501620913",,yes,ohanaPlus
+Oahu,King's Cathedral Oahu,East Honolulu,Ohana Produce Plus Program,2nd & 4th Thursdays: 11:00pm - 1:00pm,,"5740 Kalanianaole Hwy. Honolulu, HI 96821",(808) 466-3273,thursday,yes,no,"21.282739972531374,-157.7355341687354",,yes,ohanaPlus
+Oahu,Mutual Housing Association of Hawaii,East Honolulu,Ohana Produce Plus Program,1st Tuesday 11:30am - 1:30pm,,"2170 Ahe St
+Honolulu, HI 96816",,tuesday,no,no,"21.301371473886693,-157.79298854338631",,yes,ohanaPlus
+Oahu,"Waikiki Community Center
+",East Honolulu,Ohana Produce Plus Program,2nd Friday,"Location: Kapiolani Community College
+Prior Registration ONLINE REGISTRATION ONLY @
+http://go.hawaii.edu/7PP
+","4303 Diamond Head Rd. Honolulu, HI 96816",,friday,no,no,"21.268289605616214,-157.79909540425558",,yes,ohanaPlus
+Oahu,Reality Church,Honolulu,Ohana Produce Plus Program,1st Saturday 11:00am - 2:00pm,Location: Ke'elikolani Middle School,1302 Queen Emma St Honolulu HI 96813,,saturday,no,no,"21.3117331153137,-157.85657791639613",,yes,ohanaPlus
+Oahu,Calvary Assembly of God,Honolulu,Ohana Produce Plus Program,3rd Friday 3:00pm,Sign in at 9:00am -1:00pm,"961 Io Ln.
+Honolulu, HI 96817",,friday,no,no,"21.32721321135784,-157.86413386133245",,yes,ohanaPlus
+Oahu,Central Union Church,Honolulu,Ohana Produce Plus Program,"Every Wednesday
+Walk-Up: 11:00am - 12:00pm
+Drive-Thru: 12:00pm - 1:00pm",,"1660 S Beretania St. Honolulu, HI 96826",(808) 941-0957,wednesday,no,no,"21.299263804268005,-157.8340970369125",,yes,ohanaPlus
+Oahu,"Co-Cathedral of St Theresa
+",Honolulu,Ohana Produce Plus Program,4th Saturday 9:00am - 11:00am,Registration opens one week prior. ONLINE REGISTRATION ONLY @ https://www.cocathedral.org/ ,"712 N School St. Honolulu, HI 96817",,saturday,yes,no,"21.324266641284257,-157.86102442470394",,yes,ohanaPlus
+Oahu,First Assembly of God Red Hill,Honolulu,Ohana Produce Plus Program,4th Saturday 7:30am - 9:30am,,"3400 Moanalua Rd.
+Honolulu, HI 96819",(808) 836-2300,saturday,yes,no,"21.365587653315,-157.90259458559555",,yes,ohanaPlus
+Oahu,Gregory House Programs,Honolulu,Ohana Produce Plus Program,"2nd Tuesdays 10am - **While
+Supplies Last**",Location: First Baptist Church,"1313 Pensacola St.
+Honolulu, HI  96814",(808) 592-9048,tuesday,yes,no,"21.303304723501252,-157.84444779837827",,yes,ohanaPlus
+Oahu,Hawaii Health & Harm Reduction Center,Honolulu,Ohana Produce Plus Program,Fourth Wednesday,"Location: Na Kapuna Makamae Community Center
+WALK UP ONLY","653 Ala Moana Blvd. Honolulu, HI 96813",(808) 521-2437,wednesday,yes,no,"21.298264578577506,-157.8628403459748",,yes,ohanaPlus
+Oahu,Institute For Human Services,Honolulu,Ohana Produce Plus Program,Last Thursday 1:00pm,,"546 Kaaahi St.
+Honolulu, HI 96817",(808) 447-2800,thursday,yes,no,"21.317794147810226,-157.8659680407615",,yes,ohanaPlus
+Oahu,Institute For Human Services,Honolulu,Ohana Produce Plus Program,Last Tuesday 1:00pm - 3:00pm,Location: Kahauiki Village,"2475 N Nimitz Hwy.
+Honolulu, HI 96819",(808) 447-2800,tuesday,yes,no,"21.33220184672495,-157.89160885544655",,yes,ohanaPlus
+Oahu,Kalihi Union Church,Honolulu,Ohana Produce Plus Program,Thursdays 9:00am - 11:00am,WALK UP ONLY,"2214 North King St.
+Honolulu, HI 96819",(808) 841-7022,thursday,no,no,"21.335723392761818,-157.88029033173277",,yes,ohanaPlus
+Oahu,Korean Seventh Day Adventist Church,Honolulu,Ohana Produce Plus Program,Last Monday 11:00am,,"2142 Algaroba St.
+Honolulu, HI 96826",(808) 955-3339,monday,no,no,"21.293435153985353,-157.8281247974594",,yes,ohanaPlus
+Oahu,Life Christian Church,Honolulu,Ohana Produce Plus Program,1st Saturday,"Check Facebook or their website to see when registration opens before an event
+ONLINE REGISTRATION ONLY @
+www.lifechristianhawaii.org/events","Various school locations, please see online regestration for information.",(808) 201-4482,saturday,no,no,"21.37378802937975,-157.92119599544287",,yes,ohanaPlus
+Oahu,PACT KPT Family Center,Honolulu,Ohana Produce Plus Program,3rd Monday,,"1485 Linapuni St # 103,
+Honolulu, HI 96819",(808) 841-6177,monday,no,no,"21.337532338069128,-157.87618392305393",,yes,ohanaPlus
+Oahu,Palama Settlement,Honolulu,Ohana Produce Plus Program,3rd Friday: 12:00pm - 2:00pm,Location: Mayor Wrights,"521 N Kukui Street Honolulu, HI 96817",(808) 845-3945,friday,yes,no,"21.319263577691306,-157.86352225674702",,yes,ohanaPlus
+Oahu,Sts. Peter and Paul Church,Honolulu,Ohana Produce Plus Program,3rd Saturday 10:00am - 11:00am,,"800 Kaheka St.
+Honolulu, HI 96814",(808) 941-0675,saturday,no,no,"21.293828559792846,-157.83943405908374",,yes,ohanaPlus
+Oahu,Trinity Missionary Baptist Church,Honolulu,Ohana Produce Plus Program,4th Tuesday 9:00am,,"3950 Paine Circle
+Honolulu, HI 96818",(808) 422-8622,tuesday,no,no,"21.339483460303576,-157.9333805908907",,yes,ohanaPlus
+Oahu,Boys & Girls Club Ewa Beach,Leeward Coast,Ohana Produce Plus Program,4th Friday Every other month 1:00pm - 3:00pm,,"91-884 Fort Weaver Rd. Ewa Beach, HI 96706",(808) 689-4182,friday,no,no,"21.314949574866656,-158.01123312391312",,yes,ohanaPlus
+Oahu,City of Joy Assembly of God,Leeward Coast,Ohana Produce Plus Program,1st Saturday: 8:00am - 10:00am,,"87-2070 Farrington Hwy. Waianae, HI 96792",(808) 256-3596,saturday,no,no,"21.38587338474484,-158.14751441329705",,yes,ohanaPlus
+Oahu,Community People Ministries,Leeward Coast,Ohana Produce Plus Program,1st Friday 11:30am - 12:30pm,"Sign in at 10:30am
+Location: Pokai Bay Beach Park","960 Bayview St. #85
+Waianae, HI 96792",,friday,yes,no,"21.442993464509765,-158.18870735705121",,yes,ohanaPlus
+Oahu,Community Pepole Ministires,Leeward Coast,Ohana Produce Plus Program,Last Tuesday 10:30am - 11:30am,"Sign in at 9:30am 
+Location: Puuloa District Park","91-970 Kaileolea Dr.
+Ewa Beach, HI 96706",,tuesday,yes,no,"21.323569714392583,-158.01857869223443",,yes,ohanaPlus
+Oahu,Hawaii Cedar Church Waianae Farm,Leeward Coast,Ohana Produce Plus Program,2nd & 4th Tuesday 12:00pm - 3:00pm,Sign in at 10:00am,"85-596 Waianae Valley Rd.
+Waianae, HI 96792",,tuesday,yes,no,"21.45316253086498,-158.1782490963924",,yes,ohanaPlus
+Oahu,Immaculate Conception Church,Leeward Coast,Ohana Produce Plus Program,1st Friday 3:00pm - 5:00pm,,"91-1298 Renton Rd.
+Ewa Beach, HI 96706",(808) 681-3701,friday,no,no,"21.34517887066744,-158.03301764566723",,yes,ohanaPlus
+Oahu,Message of Peace Ministry,Leeward Coast,Ohana Produce Plus Program,3rd Saturday 8:00am,Location: Asing Community Park,"91-1450 Renton Rd. Ewa Beach, HI 96706",,saturday,yes,no,"21.350774324276088,-158.0254220221252",,yes,ohanaPlus
+Oahu,Nanaikapono Protestant Church,Leeward Coast,Ohana Produce Plus Program,4th Saturday 10:00am,Sign in at 8:30am,"89-235 Pua Ave.
+Waianae, HI 96792",(808) 668-1184,saturday,yes,no,"21.380147742520247,-158.1425463278904",,yes,ohanaPlus
+Oahu,Hope Chapel Kahuku,North Shore,Ohana Produce Plus Program,4th Monday 2:30pm,Location: Kahuku Medical Center - Trailers,"56-117 Pualalea St.
+Kahuku, HI 96731",,monday,no,no,"21.67656101530164,-157.9543322983105",,yes,ohanaPlus
+Oahu,Hui O Hauula,North Shore,Ohana Produce Plus Program,1st Monday 10:00am - 12:00pm,Location: Hauula Beach Park,"54-135 Kamehameha Hwy.
+Hauula, HI 96717",,monday,no,no,"21.612355407154386,-157.9112687908117",,yes,ohanaPlus
+Oahu,"Key Project (Kahuku Community Association)
+",North Shore,Ohana Produce Plus Program,Thursday 12:00pm - 2:00pm,"Location: Kahuku Community Association
+ONLINE REGISTRATION @ www.keyproject.org (see community news)","56-576 Kamehameha Hwy.
+Kahuku, HI 96731",(808) 239-5777,thursday,yes,no,"21.677107652097536,-157.95079044295738",,yes,ohanaPlus
+Oahu,Once A Month Church,North Shore,Ohana Produce Plus Program,"1st & 3rd
+Wednesday 12:00am - 2:00pm",Location: Kaiaka Bay Beach Park,"66-449 Haleiwa Rd.
+Haleiwa, HI 96712",(808) 780-8037,wednesday,yes,no,"21.58676448793071,-158.11605199007082",,yes,ohanaPlus
+Oahu,Armed Services YMCA MCBH,Windward Coast,Ohana Produce Plus Program,2nd Monday 12:00pm - 2:00pm,"(Military installation access required)
+Pre-registration avalible at https://hawaii.asymca.org/events/","455 Bingham Way
+Kailua, HI 96734",(808) 254-4719,monday,yes,no,"21.44647822712296,-157.7504780026714",,yes,ohanaPlus
+Oahu,Dynamic Compassion In Action,Windward Coast,Ohana Produce Plus Program,1st and 3rd Monday 1:30pm,Location: Waimanalo District Park,"41-415 Hihimanu St.
+Waimanalo, HI 96795",(808) 754-6260,monday,yes,no,"21.342726458666732,-157.7152659239272",,yes,ohanaPlus
+Oahu,Hui Mahiai Aina,Windward Coast,Ohana Produce Plus Program,1st Thursday 12:30pm,Location: Waimanalo District Park,"41-415 Hihimanu St.
+Waimanalo, HI 96795",,thursday,yes,no,"21.342405474425224,-157.7148611984452",,yes,ohanaPlus
+Oahu,"Key Project (Kaneohe)
+",Windward Coast,Ohana Produce Plus Program,1st Tuesday 1:00pm - 4:00pm,"Registration opens on the last Tuesday of the month
+ONLINE REGISTRATION @
+www.keyproject.org (see community news)","47-200 Waihee Rd.
+Kaneohe, HI 96744",(808) 239-5777,tuesday,yes,no,"21.45779383647681,-157.8433579980856",,yes,ohanaPlus
